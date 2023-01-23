@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1673641810 source:d:\programowanie\c_plus_plus\obiektowo\03_konstruktor\main.cpp
+	<iostream>
+
+1673641490 d:\programowanie\c_plus_plus\obiektowo\03_konstruktor\przycisk.h
+	<iostream>
+
+1673639261 source:d:\programowanie\c_plus_plus\obiektowo\03_konstruktor\przycisk.cpp
+	"Przycisk.h"
+
+1673715424 source:d:\programowanie\c_plus_plus\obiektowo\03_konstruktor\konstruktor z wartosciami domyslnymi.cpp
+	<iostream>
+

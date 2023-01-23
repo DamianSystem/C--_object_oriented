@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1674134692 source:d:\programowanie\c_plus_plus\obiektowo\04_funkcje_zaprzyjaznione_punkt_prostokat_praca_domowa\przyjaciele.cpp
+	<iostream>
+	"przyjaciele.h"
+
+1674138096 d:\programowanie\c_plus_plus\obiektowo\04_funkcje_zaprzyjaznione_punkt_prostokat_praca_domowa\przyjaciele.h
+	<iostream>
+
+1674138013 source:d:\programowanie\c_plus_plus\obiektowo\04_funkcje_zaprzyjaznione_punkt_prostokat_praca_domowa\main.cpp
+	<iostream>
+	"przyjaciele.h"
+
